@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/ramaraok/demo-app
+  newTag: 59d54fad12fb486f89b3bda71c45cbb2f978befc
