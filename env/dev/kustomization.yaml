@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/ramaraok/demo-app
-  newTag: latest
+  newTag: a58eb7eeebb219ef0c1724ee11fd45faa3699a28
